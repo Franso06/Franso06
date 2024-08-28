@@ -1,5 +1,6 @@
-## Hi there 👋
 
+![](https://github.com/Franso06/Franso06/blob/main/Portada.png)
+![](https://github.com/Franso06/Franso06/blob/main/Conocimientos.png)
 <!--
 **Franso06/Franso06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
